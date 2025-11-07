@@ -25,3 +25,7 @@ Enjoy your AI-powered hardware assistant!
 
 📄 License & Credits
 This project is a modified fork of xiaozhi-esp32. All original credit goes to the author. Please refer to the original repository for licensing terms. If you plan to redistribute or build upon this work, make sure to respect the original license.
+
+
+
+For the firts use you need to configure in this web: https://web.esphome.io/
